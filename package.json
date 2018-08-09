@@ -24,12 +24,12 @@
   },
   "homepage": "https://github.com/NickMele/dice-module",
   "dependencies": {
-    "lodash": "^2.4.1",
-    "tslint": "^5.11.0",
-    "typescript": "^3.0.1"
+    "lodash": "^2.4.1"
   },
   "devDependencies": {
     "chai": "^1.9.1",
-    "mocha": "^1.21.4"
+    "mocha": "^1.21.4",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.1"
   }
 }
